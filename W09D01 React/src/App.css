@@ -1,0 +1,11 @@
+.App {
+  border: 5px solid purple;
+}
+
+.Header {
+  border: 3px solid red;
+}
+
+.Task {
+  border: 3px solid blue;
+}
